@@ -30,13 +30,32 @@ Every walk becomes part of your personal saga — unfolding across the maps and 
 
 QuestMap reimagines the act of moving through the world — reminding us that adventure begins the moment we step outside.
 
+## 🚀 How Your Adventure Works
+
+### 🏥 Automatic Step Tracking
+Your journey starts effortlessly with Health Connect integration for Android devices. QuestMap automatically syncs your steps from fitness apps, managing everything in the background while preserving your battery life. No manual logging required — just walk, and watch your progress unfold.
+
+### 🎯 Personalized Journey Management  
+Set your own adventure timeline with custom journey start times. Once you begin, your route locks in to prevent accidental changes, and your progress persists even when you close the app. Every step is remembered, every milestone preserved.
+
+### 🎨 Immersive Fantasy Experience
+Navigate through a beautifully designed interface with fantasy-inspired themes and visual progress indicators. Watch milestone markers light up as you advance, with smooth animations that make every achievement feel magical.
+
 ## 🌠 Start Your Adventure
 
-Whether you're walking to Mordor, Waterdeep, or just around the block — every step counts.
-Every road holds meaning.
-Every adventurer has a story worth telling.
+Whether you're walking to Mordor, Waterdeep, or just around the block — every step counts. Every road holds meaning. Every adventurer has a story worth telling.
 
 **Ready to begin?** Lace up your boots, open the map, and walk your story.
+
+## � The Journey Ahead
+
+### Coming Next
+- **Share Progress** - Export your achievements and share milestones with fellow adventurers
+- **Enhanced Branding** - A more polished visual identity for your questing experience
+
+### Future Realms
+- **Multi-World Support** - Explore Middle-earth, Narnia, and custom-created realms  
+- **Social Questing** - Party up with friends for group journeys and community challenges
 
 ---
 
