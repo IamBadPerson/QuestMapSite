@@ -5,7 +5,11 @@
 ---
 
 <div align="center">
-<img src="image.png" alt="app logo" width="300" />
+<a href="https://youtube.com/shorts/CV7GusIL2-U">
+<img src="image.png" alt="A dev version of the app" width="300" />
+</a>
+<br>
+<em>Click to watch QuestMap in action</em>
 </div>
 
 ## ⚔️ What is QuestMap?
@@ -46,6 +50,13 @@ Navigate through a beautifully designed interface with fantasy-inspired themes a
 Whether you're walking to Mordor, Waterdeep, or just around the block — every step counts. Every road holds meaning. Every adventurer has a story worth telling.
 
 **Ready to begin?** Lace up your boots, open the map, and walk your story.
+
+## 📱 Get QuestMap
+
+**Currently in Beta Testing**
+- 🤖 **Android:** Join our beta test program below
+- 🏪 **Official Release:** Coming soon to app stores
+- 🧪 **Testing Access:** Sign up to get early access and help shape the future
 
 ## 🧪 Join Our Testing Adventure
 
